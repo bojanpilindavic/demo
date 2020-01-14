@@ -1,14 +1,64 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "teams": [
+        {
+            "id": 1,
+            "name": "FC Barcelona",
+            "points": "0",
+	    "img": "https://www.logofootball.net/wp-content/uploads/FC-Barcelona-HD-Logo.png"
+        },
+        {
+            "id": 2,
+            "name": "Real Madrid",
+            "points": "0",
+	    "img": "https://www.logofootball.net/wp-content/uploads/Real-Madrid-CF-HD-Logo.png"
+        },
+        {
+            "id": 3,
+            "name": "Arsenal",
+            "points": "0",
+	    "img": "https://www.logofootball.net/wp-content/uploads/Arsenal-FC-HD-Logo.png"
+        },
+        {
+            "id": 4,
+            "name": "Chelsea",
+            "points": "0",
+            "img": "https://www.logofootball.net/wp-content/uploads/Chelsea-FC-HD-Logo.png"
+        },
+        {
+            "id": 5,
+            "name": "Juventus",
+            "points": "0",
+            "img": "https://www.logofootball.net/wp-content/uploads/Juventus-FC-HD-Logo.png"
+        },
+        {
+            "id": 6,
+            "name": "Milan",
+            "points": "0",
+	    "img": "https://www.logofootball.net/wp-content/uploads/AC-Milan-HD-Logo.png"
+        },
+        {
+            "id": 7,
+            "name": "Valencia",
+            "points": "0",
+            "img": "https://www.logofootball.net/wp-content/uploads/Valencia-CF.png"
+        },
+        {
+            "id": 8,
+            "name": "Atletico-Madrid",
+            "points": "0",
+	    "img": "https://www.logofootball.net/wp-content/uploads/Atletico-Madrid-HD-Logo.png"
+        },
+        {
+            "id": 9,
+            "name": "Everton"
+            "points": "0",
+            "img": "https://www.logofootball.net/wp-content/uploads/Everton-FC-HD-Logo.png"
+        },
+        {
+            "id": 10,
+            "name": "Tottenham",
+            "points": "0",
+	    "img": "https://www.logofootball.net/wp-content/uploads/Tottenham-Hotspur-FC-HD-Logo.png"
+        }
+    ]
 }
